@@ -5,17 +5,17 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://rubylang.info/</loc>
+  <loc>http://ruby-lang.com.br/</loc>
   <lastmod>2011-08-05T19:13:46+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rubylang.info/downloads.html</loc>
+  <loc>http://ruby-lang.com.br/downloads.html</loc>
   <lastmod>2011-08-05T19:13:46+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rubylang.info/license.html</loc>
+  <loc>http://ruby-lang.com.br/license.html</loc>
   <lastmod>2011-08-05T19:13:46+00:00</lastmod>
   <changefreq>never</changefreq>
 </url>

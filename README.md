@@ -1,28 +1,29 @@
-## RubyLang.info
+## RubyLang.com.br
 
-RubyLang.info is a community driven web site, dedicated to helping both new and experienced Ruby 
-developers. We are hosted on Github, where anyone can contribute to the site without going 
-through unnecessary barriers. We strive to be the best possible resource for the 
-Ruby programming language.
+RubyLang.com.br é um web site dirigido à comunidade, dedicado a ajudar tanto desenvolvedores novatos
+como experientes em Ruby. Estamos hospedados na WebbyNode, com código no Github, onde qualquer um possa
+contribuir ao site sem precisar passar por barreiras desnecessárias. Nos esforçamos para ser o melhor recurso
+possível para a linguagem de programação Ruby.
 
-### Contributing
+### Contribuindo
 
-  The setup is very straightforward. Only [Jekyll](http://jekyllrb.com/) is required to get started.
+  A configuração é bem direta. Somente [Jekyll](http://jekyllrb.com/) é necessário para iniciar.
 
-  1) Install Jekyll by running
-  
+  1) Instale Jekyll executando:
+
       gem install jekyll
-    
-  2) Run `jekyll --server` in the source code directory. This will start Webrick, generate the static files, and will
-  watch for any changes. Navigate to [http://localhost:4000](http://localhost:4000) to view the site.
 
-  Note: For styling, we are currently using [Stylus](http://learnboost.github.com/stylus/) but looking to migrate over
-  to [Sass](http://sass-lang.com/) in the near future. Both are very similar and if you're familiar with any, 
-  you'll have an easy time changing the stylesheets. Stylus can be install using node + npm. More documentation on
-  this is coming soon.
-  
-  3) Once you've made changes and you're satisfied, just push the changes to your fork and submit a pull request.
+  2) Rode `jekyll --server` no diretório do código-fonte. Isso inicializará o Webrick, gerará os arquivos estáticos,
+  e observará por quaisquer mudanças. Navegue em [http://localhost:4000](http://localhost:4000) para ver o site.
 
-### License
-  RubyLang.info is licensed under a
-  [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+  Nota: Para estilo, estamos atualmente usando [Stylus](http://learnboost.github.com/stylus/) mas pensando em migrar
+  para [Sass](http://sass-lang.com/) num futuro próximo. Ambos são muito similares e se estiver familiarizado com
+  um deles, você não terá dificuldades em modificar os stylesheets. Stylus pode ser instalado usando node + npm.
+  Mais documentação sobre isso virá em breve.
+
+  3) Quando fizer as mudanças e estiver satisfeito, apenas faça "push" das mudanças ao seu fork e nos envie um
+  "pull request".
+
+### Licença
+  RubyLang.com.br é licenciado sob uma
+  [Licença Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/).
