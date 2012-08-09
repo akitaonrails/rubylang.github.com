@@ -1,6 +1,6 @@
-## RubyLang.com.br
+## Ruby-Lang.com.br
 
-RubyLang.com.br é um web site dirigido à comunidade, dedicado a ajudar tanto desenvolvedores novatos
+Ruby-Lang.com.br é um web site dirigido à comunidade, dedicado a ajudar tanto desenvolvedores novatos
 como experientes em Ruby. Estamos hospedados na WebbyNode, com código no Github, onde qualquer um possa
 contribuir ao site sem precisar passar por barreiras desnecessárias. Nos esforçamos para ser o melhor recurso
 possível para a linguagem de programação Ruby.
@@ -25,5 +25,5 @@ possível para a linguagem de programação Ruby.
   "pull request".
 
 ### Licença
-  RubyLang.com.br é licenciado sob uma
+  Ruby-Lang.com.br é licenciado sob uma
   [Licença Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/).
